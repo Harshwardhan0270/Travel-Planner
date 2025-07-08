@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
